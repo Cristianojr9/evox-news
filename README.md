@@ -4,6 +4,7 @@ Evox News
 
 <p align="center">
   Evox News é um site que mostra as noticias da Apple.
+  ![Evox News Demo](src/assets/gif.gif)
 </p>
 
 🆘 Sobre o desafio

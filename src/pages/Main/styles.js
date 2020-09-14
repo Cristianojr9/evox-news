@@ -9,10 +9,10 @@ export const Container = styled.div`
   } 
 
   div {
+    margin-top: 16px;    
     &:first-child {
       margin-top: 80px;
     }
-    margin-top: 16px;
   }
 `;
 

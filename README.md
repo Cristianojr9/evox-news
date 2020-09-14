@@ -9,7 +9,9 @@ Evox News
 🆘 Sobre o desafio
 ------------------
   Desafio muito legal de se fazer, o objetivo era consumir a api NewsAPI e listar de acordo com o design planejado. 
+  <br />
   ![Evox News Demo](https://github.com/Cristianojr9/evox-news/blob/master/src/assets/gif.gif)
+  <br />
 :wrench: Tecnologias utilizadas:
 ----------------------
 

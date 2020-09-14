@@ -3,15 +3,13 @@ Evox News
 </h1> 
 
 <p align="center">
-  Evox News é um site que mostra as noticias da Apple.
+  Evox News é um site que mostra as noticias da Apple. Desafio muito legal de se fazer, o objetivo era consumir a api NewsAPI e listar de acordo com o design planejado. 
+
 </p>
 
 🆘 Sobre o desafio
 ------------------
-  Desafio muito legal de se fazer, o objetivo era consumir a api NewsAPI e listar de acordo com o design planejado. 
-  <br />
   ![Evox News Demo](https://github.com/Cristianojr9/evox-news/blob/master/src/assets/gif.gif)
-  <br />
 :wrench: Tecnologias utilizadas:
 ----------------------
 
